@@ -62,4 +62,4 @@ ping -c 4 8.8.8.8
 El instituto lleva el nombre de **Simone Veil**, política francesa y superviviente
 del Holocausto. Esta imagen procede de Wikimedia Commons:
 
-![Retrato de Simone Veil](https://upload.wikimedia.org/wikipedia/commons/f/fc/Official_portrait_of_Simone_Veil_%28cropped%29.jpg)
+![Retrato de Simone Veil](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Official_portrait_of_Simone_Veil_%28cropped%29.jpg/500px-Official_portrait_of_Simone_Veil_%28cropped%29.jpg)
