@@ -1,21 +1,21 @@
-# Detalles del IES Simone Veil
+# Detalles del IES Clara del Rey
 
 Este es el **fichero secundario** del repositorio, enlazado desde
 [markdown.md](../markdown.md) mediante una ruta relativa.
 
 ## Sobre el instituto
 
-- **Nombre:** IES Simone Veil
-- **Localidad:** Paracuellos de Jarama (Comunidad de Madrid)
+- **Nombre:** IES Clara del Rey
+- **Localidad:** Madrid
 - **Tipo:** Instituto público de Educación Secundaria y Formación Profesional
 
-## ¿Quién fue Simone Veil?
+## ¿Quién fue Clara del Rey?
 
-Simone Veil (1927–2017) fue una política francesa, superviviente de Auschwitz,
-ministra de Sanidad y la primera presidenta del Parlamento Europeo elegido por
-sufragio universal. Dar su nombre a un instituto es una forma de recordar su
-defensa de los derechos humanos.
+Clara del Rey (Clara del Rey Calvo) fue una de las **heroínas del levantamiento del
+2 de mayo de 1808** en Madrid, durante la Guerra de la Independencia. Participó en la
+defensa del Parque de Artillería de Monteleón junto a su familia. En su memoria hay
+una calle y un busto en Madrid, y varios centros educativos llevan su nombre.
 
 ## Nota
 
-Este documento forma parte de un ejercicio de **Markdown y GitHub** del ciclo SMR.
+Este documento forma parte de un ejercicio de **Markdown y GitHub**.

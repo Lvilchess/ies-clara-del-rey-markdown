@@ -1,65 +1,64 @@
-# IES Simone Veil
+# IES Clara del Rey
 
-## El ciclo de Sistemas Microinformáticos y Redes (SMR)
+## Un instituto de Madrid con nombre de heroína
 
-El **IES Simone Veil** es un instituto público situado en *Paracuellos de Jarama*
-(Comunidad de Madrid). Entre su oferta formativa se encuentra el ciclo de **Grado
-Medio de Sistemas Microinformáticos y Redes (SMR)**, donde se aprende a montar,
-configurar y mantener equipos y redes. Una de las herramientas que se usan en clase
-es el control de versiones con `git`.
+El **IES Clara del Rey** es un instituto público de *Madrid* en el que, además de la
+ESO y el Bachillerato, se imparte **Formación Profesional de Informática**. En estos
+estudios se aprende a montar equipos, administrar sistemas y redes, y usar herramientas
+como el control de versiones con `git`.
 
 ---
 
-## ¿Qué se aprende en SMR?
+## ¿Qué se estudia en Informática?
 
-En este ciclo se trabajan, entre otras cosas, estas áreas:
+Las áreas que más se trabajan en los ciclos de informática son:
 
-- Montaje y mantenimiento de equipos informáticos.
-- Instalación de sistemas operativos (Windows y Linux).
-- Redes locales: cableado, configuración y resolución de problemas.
-- Seguridad informática básica.
-- Servicios de red y pequeños servidores.
+- Montaje y mantenimiento de equipos.
+- Sistemas operativos (Windows y Linux).
+- Redes locales y servicios de red.
+- Seguridad informática.
+- Programación y desarrollo de aplicaciones.
 
-Y el itinerario habitual del alumnado suele ser:
+El itinerario típico del alumnado suele ser:
 
-1. Cursar **primer curso** (módulos básicos).
-2. Cursar **segundo curso** (módulos más avanzados).
-3. Realizar las **prácticas en empresa (FCT)**.
-4. Titular como *Técnico en Sistemas Microinformáticos y Redes*.
+1. Elegir un **ciclo** (grado medio o superior).
+2. Cursar **primer curso** con los módulos básicos.
+3. Cursar **segundo curso** con los módulos avanzados.
+4. Hacer las **prácticas en empresa (FCT)** y titular.
 
 ## Un ejemplo de código
 
-Un comando típico que usamos en Linux para ver la configuración de red:
+Comandos típicos que usamos en Linux para revisar la red:
 
 ```bash
-# Mostrar las interfaces de red y sus direcciones IP
+# Ver las interfaces de red y comprobar la conexion
 ip addr show
 ping -c 4 8.8.8.8
 ```
 
-## Módulos del ciclo (ejemplo)
+## Ciclos de FP de Informática (en España)
 
-| Módulo                         | Curso   | Horas semanales |
-|--------------------------------|---------|-----------------|
-| Montaje y mantenimiento        | Primero | 5               |
-| Redes locales                  | Primero | 6               |
-| Seguridad informática          | Segundo | 4               |
-| Servicios en red               | Segundo | 6               |
+| Ciclo                                          | Grado    | Duración |
+|------------------------------------------------|----------|----------|
+| Sistemas Microinformáticos y Redes (SMR)       | Medio    | 2 años   |
+| Administración de Sistemas Informáticos (ASIR) | Superior | 2 años   |
+| Desarrollo de Aplicaciones Web (DAW)           | Superior | 2 años   |
 
 ## Enlaces
 
-- Página oficial de la Comunidad de Madrid sobre el ciclo:
-  [Sistemas Microinformáticos y Redes](https://www.comunidad.madrid/servicios/educacion/sistemas-microinformaticos-redes).
-- Más detalles sobre el instituto en este mismo repositorio:
+- Información oficial de la Comunidad de Madrid sobre
+  [Formación Profesional](https://www.comunidad.madrid/servicios/educacion/formacion-profesional).
+- Más detalles sobre el instituto en este repositorio:
   [Ver detalles](docs/detalles.md).
 
-## Imagen del instituto (imagen local)
+## Imagen del proyecto (imagen local)
 
-![Logo del proyecto SMR del IES Simone Veil](assets/mi-imagen.png)
+![Banner del instituto IES Clara del Rey](assets/mi-imagen.png)
 
-## Simone Veil (imagen externa de Wikimedia)
+## Clara del Rey (imagen externa de Wikimedia)
 
-El instituto lleva el nombre de **Simone Veil**, política francesa y superviviente
-del Holocausto. Esta imagen procede de Wikimedia Commons:
+El instituto lleva el nombre de **Clara del Rey**, una de las heroínas del
+*levantamiento del 2 de mayo de 1808* en Madrid. Esta imagen de su busto procede de
+Wikimedia Commons:
 
-![Retrato de Simone Veil](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Official_portrait_of_Simone_Veil_%28cropped%29.jpg/500px-Official_portrait_of_Simone_Veil_%28cropped%29.jpg)
+![Busto de Clara del Rey en la Plaza de las Comendadoras (Madrid)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Clara_del_Rey_-_Plaza_de_las_Comendadoras_-_Madrid_01.jpg/500px-Clara_del_Rey_-_Plaza_de_las_Comendadoras_-_Madrid_01.jpg)
