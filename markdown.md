@@ -55,10 +55,10 @@ ping -c 4 8.8.8.8
 
 ![Banner del instituto IES Clara del Rey](assets/mi-imagen.png)
 
-## Clara del Rey (imagen externa de Wikimedia)
+## El instituto (imagen externa de Wikimedia)
 
-El instituto lleva el nombre de **Clara del Rey**, una de las heroínas del
-*levantamiento del 2 de mayo de 1808* en Madrid. Esta imagen de su busto procede de
-Wikimedia Commons:
+El **IES Clara del Rey** está en el barrio de *Prosperidad* (Madrid) y lleva el nombre
+de **Clara del Rey**, una de las heroínas del *levantamiento del 2 de mayo de 1808*.
+Esta foto del edificio procede de Wikimedia Commons:
 
-![Busto de Clara del Rey en la Plaza de las Comendadoras (Madrid)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Clara_del_Rey_-_Plaza_de_las_Comendadoras_-_Madrid_01.jpg/500px-Clara_del_Rey_-_Plaza_de_las_Comendadoras_-_Madrid_01.jpg)
+![Edificio del IES Clara del Rey (Prosperidad, Madrid)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/500px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)

@@ -6,7 +6,7 @@ Este es el **fichero secundario** del repositorio, enlazado desde
 ## Sobre el instituto
 
 - **Nombre:** IES Clara del Rey
-- **Localidad:** Madrid
+- **Localidad:** Madrid (barrio de Prosperidad)
 - **Tipo:** Instituto público de Educación Secundaria y Formación Profesional
 
 ## ¿Quién fue Clara del Rey?
